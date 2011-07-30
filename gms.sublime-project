@@ -1,0 +1,300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"num_chars"
+			],
+			[
+				"dom",
+				"domain"
+			],
+			[
+				"AppEn",
+				"AppEngineZoneDataStore"
+			],
+			[
+				"De",
+				"DeleteDomainRequest"
+			],
+			[
+				"from",
+				"from_domain"
+			],
+			[
+				"AppEnd",
+				"AppEngineDomainObject"
+			],
+			[
+				"app",
+				"AppEngineDb"
+			],
+			[
+				"AppEngi",
+				"AppEngineDomainObject"
+			],
+			[
+				"try",
+				"try: Try/Except"
+			],
+			[
+				"dro",
+				"drop_stmt"
+			],
+			[
+				"def",
+				"default_file"
+			],
+			[
+				"show_e",
+				"show_error"
+			],
+			[
+				"wai",
+				"waiting_to_scroll"
+			],
+			[
+				"show_lo",
+				"show_loader"
+			],
+			[
+				"hide_l",
+				"hide_loader"
+			],
+			[
+				"aj",
+				"ajax_req_url_base"
+			],
+			[
+				"text",
+				"text: text-align: left/center/right"
+			],
+			[
+				"example_qs",
+				"example_qs_links"
+			],
+			[
+				"gen",
+				"generator_success"
+			],
+			[
+				"Gener",
+				"GenerationError"
+			],
+			[
+				"Generat",
+				"GenerationError"
+			],
+			[
+				"Char",
+				"Character"
+			],
+			[
+				"Lex",
+				"LexerResult"
+			],
+			[
+				"TUnkown",
+				"containsUnknown"
+			],
+			[
+				"cont",
+				"containsUnknown"
+			],
+			[
+				"Fail",
+				"FailureInfo"
+			],
+			[
+				"sh",
+				"showXString"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392,
+		"selected_items":
+		[
+		],
+		"width": 392
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ost/Desktop/ds/v1_appengine-webapp/src/app.yaml",
+		"/home/ost/Desktop/ds/v0_appengine-test/src/app.yaml",
+		"/home/ost/Desktop/ds/v1_appengine-webapp/src/main.py",
+		"/home/ost/Desktop/ds/v1_appengine-webapp/src/data/__init__.py",
+		"/home/ost/Desktop/test.py",
+		"/home/ost/Desktop/test.txt",
+		"/home/ost/Desktop/ds/v0_appengine-test/src/helloworld.py",
+		"/srv/ctdwww/srv/main.py",
+		"/home/ost/Desktop/ds/v1_appengine-webapp/src/lib/__init__.py",
+		"/srv/ctdwww/srv/domav/__init__.py",
+		"/srv/ctdwww/srv/log.log",
+		"/srv/ctdwww/srv/torn.py",
+		"/srv/ctdwww/srv/main.html",
+		"/srv/ctdwww/srv/domav/us.txt",
+		"/srv/ctdwww/srv/static/ctd_v2.js",
+		"/srv/ctdwww/srv/pywhois/__init__.py",
+		"/srv/ctdwww/srv/pywhois2/whois.py",
+		"/srv/ctdwww/srv/pywhois2/parser.py",
+		"/srv/ctdwww/srv/pywhois2/__init__.py",
+		"/srv/ctdwww/srv/test_whois.py",
+		"/srv/ctdwww/srv/test_new.py",
+		"/srv/ctdwww/srv/static/ctd_v1.js",
+		"/srv/ctdwww/srv/ctd.py",
+		"/srv/ctdwww/srv/static/ctd_v1.css",
+		"/srv/ctdwww/srv/tornado.py",
+		"/srv/ctdwww/srv/static/test.html",
+		"/srv/ctdwww/srv/static/js.js",
+		"/srv/ctdwww/srv/main_old.html",
+		"/usr/local/lib/python2.7/dist-packages/Flask-0.7.2-py2.7.egg/flask/app.py",
+		"/srv/ctdwww/srv/pywhois/parser.py",
+		"/srv/ctdwww/srv/pywhois/whois.py",
+		"/home/ost/Desktop/rgen.py",
+		"/home/ost/code/lib/XGen/XGen/Parser/HappyParser.y",
+		"/home/ost/code/lib/XGen/XGen/Parser/Lexer.hs",
+		"/home/ost/code/lib/XGen/XGen/StringGenerator.hs",
+		"/home/ost/code/lib/XGen/XGen/Types.hs",
+		"/home/ost/projects/ctd/code/APIServer/src/main.hs",
+		"/home/ost/code/lib/XGen/XGen.cabal",
+		"/home/ost/code/lib/XGen/XGen/Parser/HappyParser.hs",
+		"/home/ost/code/lib/XGen/dist/build/XGen/Parser/HappyParser.hs",
+		"/home/ost/code/lib/XGen/TODO",
+		"/home/ost/code/lib/XGen/XGen/Parser/test.hs",
+		"/home/ost/code/lib/XGen/XGen/Parser/XGenMonad.hs",
+		"/home/ost/code/lib/XGen/XGen/Parser/HappyParser_old.y",
+		"/home/ost/code/lib/XGen/XGen/Parser/Lexer_old.hs",
+		"/home/ost/code/lib/XGen/XGen/Parser/ParseErrorMonad.hs",
+		"/home/ost/Desktop/err.hs",
+		"/home/ost/Desktop/test.hs",
+		"/home/ost/Desktop/gen.py",
+		"/home/ost/code/lib/XGen/LICENSE",
+		"/home/ost/code/lib/XGen/dist/build/XGen/Types.hi",
+		"/home/ost/Projects/ctd/code/APIServer/Main.hs",
+		"/home/ost/Projects/ctd/code/XStringGenerator/XLexer.hs",
+		"/home/ost/Projects/ctd/code/XStringGenerator/XString.hs",
+		"/home/ost/.bashrc",
+		"/home/ost/.cabal/config",
+		"/home/ost/Projects/ctd/code/XStringGenerator/XHappyParser.hs",
+		"/home/ost/Projects/ctd/code/XStringGenerator/XHappyParser.y",
+		"/home/ost/Projects/ctd/code/XStringGenerator/XString",
+		"/home/ost/Projects/ctd/code/XStringGenerator/XStringGenerator.hs"
+	],
+	"find_in_files":
+	{
+		"include_history":
+		[
+		],
+		"location_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"quote",
+			"oli",
+			"unavailable",
+			"http://10.1.2.6",
+			"http://localhost:5001",
+			"psa.com",
+			"pso.com",
+			"psu.com",
+			"dipsu.com",
+			"dapsu.com",
+			"src=\"check.jpg\"",
+			"request",
+			"notHappyAtAll"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://10.1.2.6:8080",
+			"psi.com",
+			"psa.com",
+			"pso.com",
+			"dapsu.com",
+			"depsu.com",
+			"src=\"check.png\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0,
+			1
+		],
+		"rows":
+		[
+			0,
+			1
+		]
+	},
+	"menu_visible": true,
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"select_project":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"show_minimap": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 204,
+	"status_bar_visible": true
+}
